@@ -1,0 +1,3 @@
+D:/Lab/ads/lab/ads-lab1/cmake-build-debug/CMakeFiles/executable.dir
+D:/Lab/ads/lab/ads-lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Lab/ads/lab/ads-lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

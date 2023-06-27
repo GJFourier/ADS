@@ -1,0 +1,3 @@
+C:\Users\G.J.Fourier\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8617.54\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\ads_lab1.dir/objects.a
+D:\cpp\mingw64\bin\ar.exe qc CMakeFiles\ads_lab1.dir/objects.a @CMakeFiles\ads_lab1.dir\objects1.rsp
+D:\cpp\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ads_lab1.dir/objects.a -Wl,--no-whole-archive -o ads_lab1.exe -Wl,--out-implib,libads_lab1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ads_lab1.dir\linklibs.rsp

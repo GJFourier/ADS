@@ -1,0 +1,3 @@
+C:\Users\G.J.Fourier\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8617.54\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\executable.dir/objects.a
+D:\cpp\mingw64\bin\ar.exe qc CMakeFiles\executable.dir/objects.a @CMakeFiles\executable.dir\objects1.rsp
+D:\cpp\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\executable.dir/objects.a -Wl,--no-whole-archive -o executable.exe -Wl,--out-implib,libexecutable.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\executable.dir\linklibs.rsp

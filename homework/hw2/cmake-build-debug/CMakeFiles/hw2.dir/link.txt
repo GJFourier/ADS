@@ -1,0 +1,3 @@
+C:\Users\G.J.Fourier\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8617.54\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\hw2.dir/objects.a
+D:\cpp\mingw64\bin\ar.exe qc CMakeFiles\hw2.dir/objects.a @CMakeFiles\hw2.dir\objects1.rsp
+D:\cpp\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\hw2.dir/objects.a -Wl,--no-whole-archive -o hw2.exe -Wl,--out-implib,libhw2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\hw2.dir\linklibs.rsp

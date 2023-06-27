@@ -1,0 +1,3 @@
+C:\Users\G.J.Fourier\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8617.54\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\hw7.dir/objects.a
+D:\cpp\mingw64\bin\ar.exe qc CMakeFiles\hw7.dir/objects.a @CMakeFiles\hw7.dir\objects1.rsp
+D:\cpp\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\hw7.dir/objects.a -Wl,--no-whole-archive -o hw7.exe -Wl,--out-implib,libhw7.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\hw7.dir\linklibs.rsp

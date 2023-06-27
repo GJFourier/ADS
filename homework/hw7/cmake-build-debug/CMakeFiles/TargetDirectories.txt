@@ -1,0 +1,3 @@
+D:/Lab/ads/homework/hw7/cmake-build-debug/CMakeFiles/hw7.dir
+D:/Lab/ads/homework/hw7/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Lab/ads/homework/hw7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
